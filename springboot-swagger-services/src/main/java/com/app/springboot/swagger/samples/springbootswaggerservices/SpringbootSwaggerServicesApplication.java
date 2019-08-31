@@ -48,9 +48,9 @@ public class SpringbootSwaggerServicesApplication {
 				"Sample API for micro-services Swagger Tutorial",
 				"1.0",
 				"Free to use",
-				new Contact("Abid Mohd", "test_url", "abid3022@gmail.com"),
+				new Contact("Abid Mohd", "https://github.com/abmohamm", "abid3022@gmail.com"),
 				"API License",
-				"test_website",
+				"https://github.com/abmohamm",
 				Collections.emptyList());
 	}
 }
